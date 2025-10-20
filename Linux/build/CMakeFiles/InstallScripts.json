@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/cmake_install.cmake",
+		"/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/NumberLib/cmake_install.cmake",
+		"/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/VectorLib/cmake_install.cmake",
+		"/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/Main/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

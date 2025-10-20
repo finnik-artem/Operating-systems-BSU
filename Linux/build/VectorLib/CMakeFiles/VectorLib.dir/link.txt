@@ -1,0 +1,1 @@
+/usr/bin/c++ -dynamiclib -Wl,-headerpad_max_install_names -o libVectorLib.dylib -install_name @rpath/libVectorLib.dylib CMakeFiles/VectorLib.dir/Vector.cpp.o  ../NumberLib/libNumberLib.a

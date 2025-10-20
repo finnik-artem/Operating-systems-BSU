@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Main.dir/main.cpp.o -o Main  -Wl,-rpath,/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/VectorLib ../NumberLib/libNumberLib.a ../VectorLib/libVectorLib.dylib ../NumberLib/libNumberLib.a

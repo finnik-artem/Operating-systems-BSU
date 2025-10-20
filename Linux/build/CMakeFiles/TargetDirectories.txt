@@ -1,0 +1,12 @@
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/CMakeFiles/build_all.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/CMakeFiles/edit_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/CMakeFiles/rebuild_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/NumberLib/CMakeFiles/NumberLib.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/NumberLib/CMakeFiles/edit_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/NumberLib/CMakeFiles/rebuild_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/VectorLib/CMakeFiles/VectorLib.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/VectorLib/CMakeFiles/edit_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/VectorLib/CMakeFiles/rebuild_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/Main/CMakeFiles/Main.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/Main/CMakeFiles/edit_cache.dir
+/Users/artem/Documents/Other1/Operating-systems-BSU/Linux/build/Main/CMakeFiles/rebuild_cache.dir
