@@ -1,0 +1,48 @@
+﻿  Vector.cpp
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(30,9): warning C4251: "Vector::x_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "Vector.cpp")
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\StaticLib\Number.h(3,7):
+       см. объявление "Number"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(31,9): warning C4251: "Vector::y_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "Vector.cpp")
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\StaticLib\Number.h(3,7):
+       см. объявление "Number"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(3,9): warning C4273: Vector::Vector: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(17,2):
+      см. предыдущее определение "Vector::Vector"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(8,9): warning C4273: Vector::Vector: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(18,2):
+      см. предыдущее определение "Vector::Vector"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(13,16): warning C4273: Vector::getRadius: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(20,9):
+      см. предыдущее определение "Vector::getRadius"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(17,16): warning C4273: Vector::getAngle: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(21,9):
+      см. предыдущее определение "Vector::getAngle"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(21,16): warning C4273: Vector::getX: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(23,9):
+      см. предыдущее определение "Vector::getX"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(25,16): warning C4273: Vector::getY: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(24,9):
+      см. предыдущее определение "Vector::getY"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(29,16): warning C4273: Vector::operator +: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(26,9):
+      см. предыдущее определение "Vector::operator +"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(33,14): warning C4273: VEC_ZERO: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(35,26):
+      см. предыдущее определение "VEC_ZERO"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.cpp(34,14): warning C4273: VEC_ONE: несовместимое связывание dll
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(36,26):
+      см. предыдущее определение "VEC_ONE"
+  
+  DynamicLib.vcxproj -> C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\x64\Debug\DynamicLib.dll

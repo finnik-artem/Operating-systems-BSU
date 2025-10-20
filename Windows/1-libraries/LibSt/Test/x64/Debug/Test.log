@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(30,9): warning C4251: "Vector::x_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\StaticLib\Number.h(3,7):
+       см. объявление "Number"
+  
+C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\DynamicLib\Vector.h(31,9): warning C4251: "Vector::y_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\StaticLib\Number.h(3,7):
+       см. объявление "Number"
+  
+  Test.vcxproj -> C:\Users\Artem\source\repos\finnik-artem\Operating-systems-BSU\Windows\1-libraries\LibSt\x64\Debug\Test.exe
